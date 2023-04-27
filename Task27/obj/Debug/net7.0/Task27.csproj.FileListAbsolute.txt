@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/bin/Debug/net7.0/Task27
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/bin/Debug/net7.0/Task27.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/bin/Debug/net7.0/Task27.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/bin/Debug/net7.0/Task27.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/bin/Debug/net7.0/Task27.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/refint/Task27.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/Task27.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task27/obj/Debug/net7.0/ref/Task27.dll

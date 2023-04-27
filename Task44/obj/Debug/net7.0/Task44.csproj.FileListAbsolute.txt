@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/bin/Debug/net7.0/Task44
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/bin/Debug/net7.0/Task44.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/bin/Debug/net7.0/Task44.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/bin/Debug/net7.0/Task44.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/bin/Debug/net7.0/Task44.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/refint/Task44.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/Task44.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task44/obj/Debug/net7.0/ref/Task44.dll

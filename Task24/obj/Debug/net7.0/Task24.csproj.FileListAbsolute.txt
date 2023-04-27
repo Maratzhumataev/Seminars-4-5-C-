@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/bin/Debug/net7.0/Task24
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/bin/Debug/net7.0/Task24.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/bin/Debug/net7.0/Task24.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/bin/Debug/net7.0/Task24.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/bin/Debug/net7.0/Task24.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/refint/Task24.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/Task24.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4 С#/Task24/obj/Debug/net7.0/ref/Task24.dll
