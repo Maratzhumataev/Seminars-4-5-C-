@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/bin/Debug/net6.0/Task38
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/bin/Debug/net6.0/Task38.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/bin/Debug/net6.0/Task38.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/bin/Debug/net6.0/Task38.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/bin/Debug/net6.0/Task38.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/refint/Task38.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/Task38.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 4-5 С#/Task38/obj/Debug/net6.0/ref/Task38.dll
